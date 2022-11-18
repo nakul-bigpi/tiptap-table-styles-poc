@@ -1,0 +1,8 @@
+button.MuiIconButton-root .MuiSvgIcon-root.active {
+  background-color: #c7c7c7;
+  border-radius: 2px;
+}
+
+.MuiToolbar-root {
+  justify-content: center;
+}

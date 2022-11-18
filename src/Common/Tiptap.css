@@ -1,0 +1,87 @@
+.test_tiptap.document {
+  padding: 72pt;
+  max-width: 700px;
+  min-width: 700px;
+  line-height: 1.38;
+  font-family: Arial;
+  color: #1d2d36;
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 13%);
+  height: auto;
+  margin: 20px auto;
+  min-height: 1056px;
+}
+
+.test_tiptap.document p {
+  margin-top: 0;
+  margin-bottom: 8px;
+  line-height: 1.38;
+  font-size: 11pt;
+  font-family: Arial;
+  color: #1d2d36;
+  min-height: 16px;
+}
+
+.test_tiptap.document table {
+  margin-bottom: 0;
+  border: none;
+  border-collapse: collapse;
+  color: #1d2d36;
+  font-family: Arial;
+  font-size: 11pt;
+}
+
+.test_tiptap.document table thead tr {
+  min-height: 48px;
+}
+
+.test_tiptap.document table thead th {
+  font-family: Arial;
+  text-transform: uppercase;
+}
+
+.test_tiptap.document table tbody th {
+  font-family: Arial;
+}
+
+.test_tiptap.document table tr {
+  min-height: 40px;
+  border: none;
+}
+
+.test_tiptap.document table th {
+  border: 1px solid black;
+  background-color: #f1f3f5;
+}
+
+.test_tiptap.document table td {
+  padding-left: 24px;
+  padding-right: 24px;
+  border: 1px solid black;
+  background-color: transparent;
+}
+
+.test_tiptap.document table td p,
+.test_tiptap.document table th p {
+  margin-bottom: 0;
+}
+
+.test_tiptap.document .horizontal-align-left {
+  text-align: left;
+}
+
+.test_tiptap.document .horizontal-align-center {
+  text-align: center;
+}
+
+.test_tiptap.document .horizontal-align-right {
+  text-align: right;
+}
+
+.test_tiptap.document .horizontal-align-justify {
+  text-align: justify;
+}
+
+.ProseMirror:focus {
+  outline: none;
+}

@@ -1,0 +1,7 @@
+span.MuiBox-root {
+  border-right: 1px solid #757575;
+}
+
+span.MuiBox-root:last-child {
+  border-right: 0;
+}
