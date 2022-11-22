@@ -22,4 +22,4 @@ export const CustomTable = Table.extend({
       ["tbody", 0],
     ];
   },
-}).configure({ resizable: true, lastColumnResizable: true });
+});
